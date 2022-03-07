@@ -1,1 +1,2 @@
 This is gitRemote2 file
+This is 2nd edit
